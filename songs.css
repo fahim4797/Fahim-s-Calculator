@@ -1,0 +1,8 @@
+body{
+  font-size: 20px;
+  margin: 100px;
+  background: linear-gradient(to bottom, white , yellow );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+}
